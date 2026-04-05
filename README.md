@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>내 블로그</title>
 </head>
 <body>
   <h1>내 첫 블로그</h1>
